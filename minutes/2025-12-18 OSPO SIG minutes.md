@@ -14,7 +14,7 @@
 
 # OSPO Spotlight: presentation on OSPO maturity, materials, and processes
 
-Moïse Kameni shared about Hydro-Québec.
+Moïse Kameni shared about Hydro-Québec [link](../assets/2025-12-18%20OSPO%20Spotlight%20-%20Hydro-Quebec.pdf).
 
 Sven from Elia will present next time, followed by Boris.
 
