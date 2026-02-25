@@ -17,7 +17,7 @@
 
 # OSPO Spotlight: presentation on OSPO maturity, materials, and processes
 
-Geethu shared about CRESYM link (TODO)
+Geethu shared about CRESYM ([link](../assets/2026-02-19%20-%20OSPO%20Spotlight%20-%20CRESYM.pdf)).
 
 # Updates from the group
 
