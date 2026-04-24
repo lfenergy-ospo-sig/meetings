@@ -104,14 +104,14 @@ Action items:
 Note: Our Contribution guildeine is in a pilot phase therefore Check 1 is in place.
 The actual wiki guide is of course longer and more detailed
 
-✓ Check 1: You received OSPO's okay
-✓ Check 2: You have a clear business motivation
-✓ Check 3: Your contribution is small
-✓ Check 4: Your contribution does not infringe third party's right
-✓ Check 5: Your contribution will not disclose trade secrets or any confidential information
-✓ Check 6: Your contribution will not disclose colleagues' personal data
-✓ Check 7: You adhere to the project's contribution guide
-✓ Check 8: You treat community members like you want to be treated
-✓ Check 9: You understood & addressed liability risks
-✓ Check 10: You received sign-off on CLAs / DCO (if there is one)
-✓ Check 11: Your GitHub account is connected to /eliagroup and you signed your commit with the your mail
+1. You received OSPO's okay
+2. You have a clear business motivation
+3. Your contribution is small
+4. Your contribution does not infringe third party's right
+5. Your contribution will not disclose trade secrets or any confidential information
+6. Your contribution will not disclose colleagues' personal data
+7. You adhere to the project's contribution guide
+8. You treat community members like you want to be treated
+9. You understood & addressed liability risks
+10. You received sign-off on CLAs / DCO (if there is one)
+11. Your GitHub account is connected to /eliagroup and you signed your commit with the your mail
